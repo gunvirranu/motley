@@ -1,0 +1,4 @@
+*.gtkw
+*.vcd
+*.vvp
+*_log.txt
